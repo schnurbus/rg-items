@@ -47,7 +47,7 @@ T10 bleibt iLvl 251 (Frost-Händler). Kein Weiheabzeichen, kein geweihtes T10.5.
 | Taille | [Bösartiger Gurt](https://db.rising-gods.de/?item=50987) | 60 Frost | [Gürtel der Titanen](https://db.rising-gods.de/?item=45550) |
 | Beine | [Beinplatten des schmerzhaften Todes](https://db.rising-gods.de/?item=49903) | Schmied, BoE | [Beinplatten des ätherischen Kampfes](https://db.rising-gods.de/?item=51786) |
 | Füße | [Höllengefrostete Knochenmalmer](https://db.rising-gods.de/?item=49906) | Schmied, BoE | [Beschlagene Stiefel des Knochendrachen](https://db.rising-gods.de/?item=50788) |
-| Ring 1 | [Äschernes Band der unvergleichlichen Macht](https://db.rising-gods.de/?item=52571) | Verdikt, Respektvoll | [Äschernes Band der Macht](https://db.rising-gods.de/?item=52569) |
+| Ring 1 | [Äschernes Band der unvergleichlichen Rache](https://db.rising-gods.de/?item=50401) | Verdikt, Respektvoll | [Äschernes Band der Rache](https://db.rising-gods.de/?item=50376) |
 | Ring 2 | [Ring aus faulenden Sehnen](https://db.rising-gods.de/?item=50453) | AH-BoE (ICC) | [Modermienes reißender Ring](https://db.rising-gods.de/?item=51001) |
 | Schmuck 1 | [Flüsternder Gezahnter Schädel](https://db.rising-gods.de/?item=50342) | Todeswisper **10N** | [Nadelüberzogener Skorpion](https://db.rising-gods.de/?item=50198) |
 | Schmuck 2 | [Herkumlkriegsabzeichen](https://db.rising-gods.de/?item=50355) | 60 Frost | [Banner des Sieges](https://db.rising-gods.de/?item=47214) |
@@ -154,13 +154,13 @@ iLvl 264, BoE, Schmied. +121 Stärke, +64 Crit, +80 ArP, 2 Sockel. Kein 10N-Schu
 
 ## Ringe
 
-### [Äschernes Band der unvergleichlichen Macht](https://db.rising-gods.de/?item=52571)
+### [Äschernes Band der unvergleichlichen Rache](https://db.rising-gods.de/?item=50401)
 
-iLvl 268, BoP, einzigartig. Das Äscherne Verdikt, Respektvoll. +98 Stärke, +57 Hit, +57 Crit. Proc: Angriffe können 10 Sek. lang +480 AP geben. Stärkster erlaubter Verdikt-Ring (kein 277er).
+iLvl 268, BoP, einzigartig. Das Äscherne Verdikt, Respektvoll. +88 Beweglichkeit, +123 AP, +57 Hit, +57 Crit. Proc: Angriffe können 10 Sek. lang +480 AP geben. Fury trägt die **Rache**-Linie (Beweglichkeit), nicht das Stärke-Band der Macht.
 
-**Günstiger:** [Äschernes Band der Macht](https://db.rising-gods.de/?item=52569) – Freundlich, iLvl 251. +91 Stärke, +53 Hit, +53 Crit. Sofort nach dem ersten Ruf-Stück.
+**Günstiger:** [Äschernes Band der Rache](https://db.rising-gods.de/?item=50376) – Freundlich, iLvl 251. +80 Beweglichkeit, +114 AP, +53 Hit, +53 Crit. Sofort nach dem ersten Ruf-Stück.
 
-**Mit Ruf:** [Äschernes Band der großen Macht](https://db.rising-gods.de/?item=52570) – Wohlwollend, iLvl 259. +98 Stärke, +57 Hit, +57 Crit. Dieselben Stats wie 268, ohne den Proc.
+**Mit Ruf:** [Äschernes Band der großen Rache](https://db.rising-gods.de/?item=50387) – Wohlwollend, iLvl 259. +86 Beweglichkeit, +123 AP, +57 Hit, +57 Crit. Nahezu 268er-Stats, ohne den Proc.
 
 ### [Ring aus faulenden Sehnen](https://db.rising-gods.de/?item=50453)
 
@@ -170,7 +170,7 @@ iLvl 264, BoE, AH (ICC). +95 Stärke, +69 Crit, +38 Hit, gelber Sockel. Zweiter 
 
 **10N, Tempo:** [Dreigezahntes Signet](https://db.rising-gods.de/?item=51024) – Prinz Valanar (**10N**). +83 Stärke, +45 Crit, +53 Tempo.
 
-Nicht das 277er [Äschernes Band der endlosen Macht](https://db.rising-gods.de/?item=52572) – Ehrfürchtig, außerhalb des Rahmens.
+Nicht das 277er [Äschernes Band der endlosen Rache](https://db.rising-gods.de/?item=50402) – Ehrfürchtig, außerhalb des Rahmens.
 
 ## Schmuck
 
@@ -227,7 +227,7 @@ Unverändert gegenüber [pre-raid.md](pre-raid.md). Beide 2H weiter [Berserker](
 ## Farm-Reihenfolge
 
 1. ICC 10 Normal, erste Hälfte (Mark'gar bis Saurfang): Claymore, Ramaladni, Flüsternder Gezahnter Schädel, Gargoyle-Umhang (nur ohne Seeschlange), Knochendrachen-Stiefel (nur ohne Craft).
-2. Äschernes Verdikt: Band der Macht (Freundlich) → große Macht (Wohlwollend) → unvergleichliche Macht (Respektvoll, iLvl 268).
+2. Äschernes Verdikt: Band der Rache (Freundlich) → große Rache (Wohlwollend) → unvergleichliche Rache (Respektvoll, iLvl 268).
 3. Seuchenwerk: Fauldarm (Fingerschutz), Modermiene (reißender Ring, Bahrengurt), Seuchenmord (infizierter Halsreif, Skalpell-Schultern).
 4. Blut und Frostflügel: Lana'thel (Kehlenreißer / Pflockwerfer), Valanar (Kriegsmaid-Beine nur ohne Craft), Valithria (Ochsenherz, Taigabindungen nur ohne Craft), Sindragosa (Drachenknochengurt, ätherische Beine nur ohne Craft).
 5. Lichkönig **10N:** Kriegsstreitkolben von Menethil. Restliches Frost in 4er-T10 (Schultern + Brust) und bösartigen Gurt, nicht in 264er-Slots die ihr schon habt.
